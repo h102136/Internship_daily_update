@@ -44,6 +44,5 @@ class Calculator:
 if __name__ == "__main__":
     expression = "3 + 5 * ( 2 - 8 )"
     calculator = Calculator(expression)
-    result = calculator.evaluate
-    
-    
+    result = calculator.evaluate()  # Call the evaluate method
+    print(result)  # Print the result
