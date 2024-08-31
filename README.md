@@ -4,4 +4,4 @@ Project
 - https://github.com/h102136/flutter_calculator (flutter_calculator)
 - https://github.com/h102136/s2geometry_dart_testing (testing task of s2geometry_dart)
 - https://github.com/h102136/s2geometry_js_testing (testing task of s2geometry_javascript)
-- https://github.com/h102136/s2geometry_dart_package 
+- https://github.com/h102136/s2geometry_dart (porting task)
